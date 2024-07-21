@@ -1,0 +1,88 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "rollNumber": "S002",
+      "fees": 5500,
+      "paymentStatus": "Unpaid"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "rollNumber": "S003",
+      "fees": 6000,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "rollNumber": "S004",
+      "fees": 4800,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "rollNumber": "S005",
+      "fees": 5200,
+      "paymentStatus": "Unpaid"
+    },
+    {
+      "id": "6",
+      "name": "David Evans",
+      "rollNumber": "S006",
+      "fees": 5300,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "7",
+      "name": "Eva White",
+      "rollNumber": "S007",
+      "fees": 5000,
+      "paymentStatus": "Unpaid"
+    },
+    {
+      "id": "8",
+      "name": "Frank Harris",
+      "rollNumber": "S008",
+      "fees": 5600,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "9",
+      "name": "Grace Martin",
+      "rollNumber": "S009",
+      "fees": 5400,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "10",
+      "name": "Henry Lee",
+      "rollNumber": "S010",
+      "fees": 5100,
+      "paymentStatus": "Unpaid"
+    },
+    {
+      "id": "11",
+      "name": "Ivy Wilson",
+      "rollNumber": "S011",
+      "fees": 5500,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "12",
+      "name": "Jack Moore",
+      "rollNumber": "S012",
+      "fees": 5700,
+      "paymentStatus": "Unpaid"
+    },
+    {
+      "id": "4bd8",
+      "name": "jfhhc",
+      "rollNumber": "gjvjvu",
+      "fees": "500",
+      "paymentStatus": "Unpaid"
+    }
+  ]
+}

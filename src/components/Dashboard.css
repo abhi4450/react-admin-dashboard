@@ -1,0 +1,19 @@
+.dashboard-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  margin-left: 250px;
+  transition: margin-left 0.3s;
+}
+
+.sidebar.collapsed + .main-content {
+  margin-left: 80px;
+}
